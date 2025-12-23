@@ -1,3 +1,3 @@
 <h1 align="center">Oxikara</h1>
-<img src="assets/icon.svg" alt="Oxikara Logo"></img>
+<p align="center"><img src="assets/icon.svg" alt="Oxikara Logo"></img></p>
 <p align="center">A modern MIDI player made using OpenGL (maybe switch to Vulkan soon)</p>
