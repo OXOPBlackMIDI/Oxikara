@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.20)
 
-project(Oxikara VERSION 0.5.0 LANGUAGES CXX)
+project(Oxikara VERSION 0.1.0 LANGUAGES CXX)
 
 option(OXIKARA_ENABLE_VULKAN "Enable Vulkan SDK discovery" ON)
 option(OXIKARA_ENABLE_GLFW "Enable GLFW renderer path" ON)
