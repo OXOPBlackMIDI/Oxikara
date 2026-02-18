@@ -2,6 +2,6 @@
 
 namespace oxikara {
 
-inline constexpr const char* kVersion = "0.5.0";
+inline constexpr const char* kVersion = "0.1.0";
 
 } // namespace oxikara
