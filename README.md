@@ -1,6 +1,20 @@
 <h1 align="center">Oxikara</h1>
-<p align="center"><img src="assets/icon.svg" alt="Oxikara Logo"></img></p>
-<p align="center">A C++ MIDI visualizer with threaded streaming parse, non-overlapping note loading, and real-time sound output.</p>
+<p align="center">
+  <img src="assets/icon.svg" alt="Oxikara Logo">
+</p>
+<p align="center">
+  A high-performance C++ MIDI visualizer with real-time playback.
+</p>
+
+## Preview
+<img width="1400" height="820" alt="image" src="https://github.com/user-attachments/assets/6b5b7fcb-9071-4ed1-bec5-22cd7e2808f5" />
+
+
+## Features
+- Threaded MIDI parsing (runs on a worker thread)
+- Real-time audio output (KDMAPI / WinMM fallback)
+- Non-overlapping note loading
+- Adjustable MIDI event processing per frame
 
 ## Bootstrap (Windows)
 Run:
