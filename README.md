@@ -7,7 +7,9 @@
 </p>
 
 ## Preview
-<img width="1400" height="820" alt="image" src="https://github.com/user-attachments/assets/6b5b7fcb-9071-4ed1-bec5-22cd7e2808f5" />
+<p align="center">
+  <img width="1400" height="820" src="https://github.com/user-attachments/assets/6b5b7fcb-9071-4ed1-bec5-22cd7e2808f5">
+</p>
 
 
 ## Features
