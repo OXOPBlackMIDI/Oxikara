@@ -48,5 +48,5 @@ Parsing itself runs on a worker thread.
 
 ## Renderer
 - GLFW + OpenGL
-- Vulkan swapchain renderer (no OpenGL backend).
+- Vulkan swapchain renderer.
 
